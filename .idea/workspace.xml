@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="840eddf5-0009-4b67-a92e-94846e89026c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Niveau 1 - Http/Malory/arp_poisoning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Niveau 1 - Http/Malory/packet_sniffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveau 2 - Https/openssl_cert/192.168.89.100-key.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveau 2 - Https/openssl_cert/192.168.89.100.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Niveau 2 - Https/openssl_cert/rootCA.pem" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Niveau 2 - Https/Bob/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Niveau 2 - Https/Bob/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Niveau 2 - Https/Malory/packet_sniffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Niveau 2 - Https/Malory/packet_sniffer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +41,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/mlgdu/Desktop/MITM/MITM",
+    "last_opened_file_path": "C:/Users/Guilhem/PycharmProjects/MITM/Niveau 2 - Https/openssl_cert",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Guilhem\PycharmProjects\MITM\Niveau 2 - Https\openssl_cert" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="MITM" type="Python.FlaskServer">
       <module name="MITM" />
