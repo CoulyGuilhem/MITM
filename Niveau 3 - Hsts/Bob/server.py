@@ -34,4 +34,4 @@ def login():
     return "Invalid credentials."
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=443, ssl_context=('cert.pem', 'key.pem'))
+    app.run(host='0.0.0.0', port=443, ssl_context=('../openssl_cert/192.168.89.100.pem', '../openssl_cert/192.168.89.100-key.pem'))
