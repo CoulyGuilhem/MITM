@@ -2,8 +2,8 @@ from scapy.all import *
 import time
 
 # Configuration
-victim_ip = "192.168.89.137"
-server_ip = "192.168.89.100"
+victim_ip = "192.168.245.114"
+server_ip = "192.168.245.137"
 malory_ip = "192.168.89.166"
 malory_mac = "46:94:88:A3:06:9B"
 
